@@ -1,5 +1,3 @@
-// TODO: Move all JavaScript code here
-
 function openHome() {
     window.location.href = "home.html";
 }

@@ -85,7 +85,6 @@ blockquote {
     height: 150vh;
 
     grid-template-rows: auto auto 1fr auto auto auto;
-    gap: 24px;
 }
 
 .header {
@@ -104,7 +103,7 @@ blockquote {
 
 .nav-button, .nav-cur-button {
     height: 40px;
-    width: 16%;
+    width: 16.6666666667%;
     padding: 0;
     margin: 0;
     display: inline-block;
@@ -113,6 +112,13 @@ blockquote {
     font-weight: bold;
     text-transform: uppercase;
     border: none;
+    word-wrap: break-word;
+    float: left;
+}
+
+.nav-button:hover {
+    background-color: navy;
+    color: gray;
 }
 
 .nav-cur-button {
