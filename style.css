@@ -91,7 +91,7 @@ blockquote {
 .header {
     font-size: 50px;
     text-align: center;
-    background-color: navy;
+    background-color: blue;
     color: white;
 }
 
@@ -132,7 +132,7 @@ blockquote {
 }
 
 .ads {
-    background-color: navy;
+    background-color: blue;
     color: white;
 }
 
