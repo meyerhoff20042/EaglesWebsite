@@ -20,6 +20,7 @@ body {
     font-size: 26px;
     text-align: center;
     padding-bottom: 5px;
+    font-style: italic;
 }
 
 dt, dd {
@@ -157,7 +158,7 @@ blockquote {
     background-color: darkgray;
     color: black;
     border-style: solid;
-    padding-bottom: 5px;
+    padding: 4%;
 }
 
 .socials {
